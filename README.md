@@ -36,8 +36,6 @@ Install dependencies
 pip install pyqt5 requests
 
 
-a3de1f101a983776abb61853a0600548 api key 
-
 ▶️ How to Use
 
 Run the application:
