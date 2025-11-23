@@ -1,7 +1,6 @@
-
-🌦️ Weather App (Python + PyQt5)
-
-A simple and user-friendly Weather Application built using Python and PyQt5.
+A simple and user-<img width="680" height="565" alt="weather app screenshot" src="https://github.com/user-attachments/assets/37b21d3b-93c0-4fbb-9902-5b22ffe67f39" />
+  🌦️ Weather App (Python + PyQt5)
+friendly Weather Application built using Python and PyQt5.
 This app allows users to quickly check the temperature of any city in the world, with an intuitive GUI and fast response.
 
 ✨ Features
