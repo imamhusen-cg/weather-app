@@ -28,7 +28,7 @@ Weather API (e.g., OpenWeatherMap)
 
 Clone this repository
 
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/imamhusen-cg/weather-app.git
 cd weather-app
 
 
@@ -37,7 +37,7 @@ Install dependencies
 pip install pyqt5 requests
 
 
-(Optional) Add your API key to the script (if required by the weather API you're using)
+a3de1f101a983776abb61853a0600548 api key 
 
 ▶️ How to Use
 
@@ -55,8 +55,13 @@ Click Get Weather
 The temperature and basic weather information will appear instantly
 
 📁 Project Structure
-weather-app/
-│── main.py            # Main application file
-│── ui/                # PyQt5 UI files (if any)
-│── README.md          # Project documentation
-└── assets/            # Icons or images
+
+         weather-app/
+main.py              # Main application file
+
+ui/                  # PyQt5 UI files 
+
+README.md            # Project documentation
+
+assets/              # Icons or images
+
